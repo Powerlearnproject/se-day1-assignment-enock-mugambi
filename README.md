@@ -30,20 +30,38 @@ Waterfall is ideal for well-defined, high-risk projects needing strict documenta
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
+A Software Developer is responsible for designing, coding, testing, and maintaining software applications.
+A QA Engineer ensures that the software meets quality standards before release.
+A Project Manager oversees the planning, execution, and delivery of software projects.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
+IDEs integrates multiple development tools, streamlining the coding process and increasing productivity. An Example is Visual Studio Code
+A Version Control System (VCS) helps developers track changes, collaborate efficiently, and manage code history. Example is Git
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
+ Debugging and Fixing Bugs which can be overcome by using debugging tools and unit testing to catch isuess early.
+ Keeping Up with Rapidly Changing Technologies which can be overcome by taking online courses and certifications.
+ Managing technical debt which can be overcome by prioritizing code quality over short-term speed
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
+Unit testing focuses on testing individual components or functions of a software application in isolation which helps detect bugs early.
+Integration testing verifies how different units, components, or modules of an application work together. It ensures that the interactions between components function correctly.
+System testing evaluates the entire software application as a complete system to verify that it meets all functional and non-functional requirements.
+Acceptance testing determines whether the software meets business requirements and is ready for deployment. It is often performed by end-users, stakeholders, or clients.
 
 #Part 2: Introduction to AI and Prompt Engineering
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
 
+Prompt engineering is the process of designing and optimizing inputs to effectively communicate with AI models such as ChatGPT. It helps one to get more accurate and specific responses. It also ensures effeciency by eliminating the need for follow-up questions.
+
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
+Vague prompt: what is bug?
+Improved: What is a bug in software engineering. Give an example.
+The improved prompt is more effective because it specifies the area where the word 'bug' is being used since it has many meanings. It directly asks for an example.
